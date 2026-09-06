@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpHistory">
+    <option name="httpHistories">
+      <map>
+        <entry key="0">
+          <value>
+            <ReqHistory>
+              <option name="body" value="{&#10;    &quot;name&quot;: &quot;Ale&quot;,&#10;    &quot;surname&quot;: &quot;Alcocer&quot;,&#10;    &quot;email&quot;: &quot;saavalencia97@gmail.com&quot;,&#10;    &quot;address&quot;: &quot;Avd comunidad valenciana&quot;,&#10;    &quot;alerting&quot;: false,&#10;    &quot;energyAlertingThreshold&quot;: 0&#10;}" />
+              <option name="contentType" value="application/x-www-form-urlencoded" />
+              <option name="fileNames">
+                <array />
+              </option>
+              <option name="headers">
+                <map />
+              </option>
+              <option name="host" value="http://127.0.0.1:8080" />
+              <option name="id" value="0" />
+              <option name="method" value="POST" />
+              <option name="params">
+                <map />
+              </option>
+              <option name="res" value="&lt;html&gt;&lt;body&gt;&lt;h1&gt;Whitelabel Error Page&lt;/h1&gt;&lt;p&gt;This application has no explicit mapping for /error, so you are seeing this as a fallback.&lt;/p&gt;&lt;div id='created'&gt;Sun Sep 06 04:21:57 CEST 2026&lt;/div&gt;&lt;div&gt;There was an unexpected error (type=Internal Server Error, status=500).&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;" />
+              <option name="time" value="2026-09-06 04:21:57" />
+              <option name="uri" value="/api/v1/user" />
+            </ReqHistory>
+          </value>
+        </entry>
+        <entry key="1">
+          <value>
+            <ReqHistory>
+              <option name="body" value="{&#10;    &quot;id&quot;: 0,&#10;    &quot;name&quot;: &quot;ale&quot;,&#10;    &quot;surname&quot;: &quot;alcocer&quot;,&#10;    &quot;email&quot;: &quot;saavalencia@gmail.com&quot;.&#10;    &quot;address&quot;: &quot;avd.comunidad val&quot;,&#10;    &quot;alerting&quot;: false,&#10;    &quot;energyAlertingThreshold&quot;: 0&#10;}" />
+              <option name="contentType" value="application/x-www-form-urlencoded" />
+              <option name="fileNames">
+                <array />
+              </option>
+              <option name="headers">
+                <map />
+              </option>
+              <option name="host" value="http://127.0.0.1:8080" />
+              <option name="id" value="1" />
+              <option name="method" value="POST" />
+              <option name="params">
+                <map />
+              </option>
+              <option name="res" value="&lt;html&gt;&lt;body&gt;&lt;h1&gt;Whitelabel Error Page&lt;/h1&gt;&lt;p&gt;This application has no explicit mapping for /error, so you are seeing this as a fallback.&lt;/p&gt;&lt;div id='created'&gt;Sun Sep 06 04:27:35 CEST 2026&lt;/div&gt;&lt;div&gt;There was an unexpected error (type=Bad Request, status=400).&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;" />
+              <option name="time" value="2026-09-06 04:27:35" />
+              <option name="uri" value="/api/v1/user" />
+            </ReqHistory>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <ReqHistory>
+              <option name="body" value="{&#10;    &quot;id&quot;: 0,&#10;    &quot;name&quot;: &quot;ale&quot;,&#10;    &quot;surname&quot;: &quot;alcocer&quot;,&#10;    &quot;email&quot;: &quot;saavalencia@gmail.com&quot;,&#10;    &quot;address&quot;: &quot;avd.comunidad val&quot;,&#10;    &quot;alerting&quot;: false,&#10;    &quot;energyAlertingThreshold&quot;: 0&#10;}" />
+              <option name="contentType" value="application/x-www-form-urlencoded" />
+              <option name="fileNames">
+                <array />
+              </option>
+              <option name="headers">
+                <map />
+              </option>
+              <option name="host" value="http://127.0.0.1:8080" />
+              <option name="id" value="2" />
+              <option name="method" value="POST" />
+              <option name="params">
+                <map />
+              </option>
+              <option name="res" value="{&quot;id&quot;:1,&quot;name&quot;:&quot;ale&quot;,&quot;surname&quot;:&quot;alcocer&quot;,&quot;email&quot;:&quot;saavalencia@gmail.com&quot;,&quot;address&quot;:&quot;avd.comunidad val&quot;,&quot;alerting&quot;:false,&quot;energyAlertingThreshold&quot;:0.0}" />
+              <option name="time" value="2026-09-06 04:27:56" />
+              <option name="uri" value="/api/v1/user" />
+            </ReqHistory>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

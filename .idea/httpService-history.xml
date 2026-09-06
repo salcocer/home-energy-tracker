@@ -600,6 +600,31 @@
             </ReqHistory>
           </value>
         </entry>
+        <entry key="25">
+          <value>
+            <ReqHistory>
+              <option name="body" value="" />
+              <option name="contentType" value="application/x-www-form-urlencoded" />
+              <option name="fileNames">
+                <array />
+              </option>
+              <option name="headers">
+                <map />
+              </option>
+              <option name="host" value="http://127.0.0.1:8080" />
+              <option name="id" value="25" />
+              <option name="method" value="DELETE" />
+              <option name="params">
+                <map>
+                  <entry key="id" value="12" />
+                </map>
+              </option>
+              <option name="res" value="" />
+              <option name="time" value="2026-09-06 16:47:22" />
+              <option name="uri" value="/api/v1/user/{id}" />
+            </ReqHistory>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
